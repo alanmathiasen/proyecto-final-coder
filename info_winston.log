@@ -1,0 +1,33 @@
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ title: 'test2' }\" (type Object) at path \"_id\" for model \"Product\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ title: 'test2' }\"","value":{"title":"test2"},"valueType":"Object"}
+{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"{ title: 'test2' }\" (type Object) at path \"_id\" for model \"Product\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"{ title: 'test2' }\"","value":{"title":"test2"},"valueType":"Object"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"hola"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27020","reason":{"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"servers":{},"stale":false,"type":"Unknown"}}
